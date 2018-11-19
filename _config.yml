@@ -63,7 +63,7 @@ subnav:
   #Twitter: "#"
   #LinkedIn: "#"
   #QQ: "#"
-  微信: "weixin://contacts/profile/zjq85000000"
+  # 微信: "zjq85000000"
   #PayPal: "#"
   #StackOverflow: "#"
   #CodePen: ""
